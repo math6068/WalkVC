@@ -1,2 +1,2 @@
-fastvc: fastvc.h fastvc.cpp
-	g++ fastvc.cpp -O3 -o fastvc
+WalkVC: WalkVC.h WalkVC.cpp
+	g++ WalkVC.cpp -O3 -o WalkVC
